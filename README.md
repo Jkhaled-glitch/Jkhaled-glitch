@@ -11,7 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
+  
 <a href="https://linkedin.com/in/khaled-jouablia-885461232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled-jouablia-885461232" height="30" width="40" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://fb.com/khaled.jouablia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khaled.jouablia" height="30" width="40" /></a>
 </p>
 
