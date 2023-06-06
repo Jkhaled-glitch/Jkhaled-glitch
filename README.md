@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **node js,react js, Flutter,android**
 
-- 👨‍💻 All of my projects are available at [https://jkhaled-glitch.github.io/Portfolio/](https://jkhaled-glitch.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://jkhaled-glitch.github.io/Portfolio/)
 
 - 💬 Ask me about **react,node and android**
 
