@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jouablia Khaled</h1>
 <h3 align="center">A passionate web and mobile developer from Tunisia</h3>
 
-- 👨‍💻 All of my projects are available at [https://jkhaled-glitch.github.io/Portfolio/](https://jkhaled-glitch.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://jkhaled-glitch.github.io/Portfolio/)
 
 - 💬 Ask me about **react,node, android**
 
